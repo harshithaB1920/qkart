@@ -1,0 +1,9 @@
+Everytime you start a new workspace session, you have to perform the instructions in the “Start the React app” and “Start the backend server” sections above.
+
+//execute for every new session
+cd /home/crio-user/workspace/reachharshitha1010-ME_QKART_FRONTEND_V2/
+./setup.sh
+
+cd /home/crio-user/workspace/reachharshitha1010-ME_QKART_FRONTEND_V2/backend/
+npm install
+npm start
